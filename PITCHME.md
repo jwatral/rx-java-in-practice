@@ -19,6 +19,9 @@
 
 +++
 
+![Image-Relative](https://image.slidesharecdn.com/uvz1yfwtrtyq7be0e2ch-signature-fd923b7850abf9bf054a2ccf0aceb9dc2aff25df66d74e8b7be2fb83b5ca3a5e-poli-141020124044-conversion-gate01/95/reactive-programming-with-rxjava-for-efficient-data-access-couchbase-connect-2014-3-638.jpg?cb=1487005183)
++++
+
 ## Who uses RXJAVA?
 ![Image-Relative](assets/image/who-uses-reactivex.png)
 
@@ -180,6 +183,10 @@ Note:
 <span style="font-size:0.6em; color:gray"><a href="http://rxmarbles.com/" target="_blank">RxMarbles</a></span>
 <br>
 <span style="font-size:0.6em; color:gray"><a href="http://reactivex.io/documentation/operators.html/" target="_blank">Docs</a></span>
+
++++
+
+![Image-Relative](https://media.licdn.com/mpr/mpr/AAEAAQAAAAAAAAiMAAAAJGQ5MjNkMGM5LTU4YTUtNDI4NS1iMmYwLTE0YTBjMjY1YjIwMg.jpg)
 
 ---
 
