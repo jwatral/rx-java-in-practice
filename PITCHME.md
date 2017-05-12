@@ -123,7 +123,7 @@ Similar to Futures though, they are easy to use with a single level of asynchron
 +++
 
 ## VideoService example
-![YouTube Video](https://youtu.be/_t06LRX0DV0?t=1884)
+![YouTube Video](https://youtu.be/_t06LRX0DV0)
 
 +++
 
@@ -197,4 +197,7 @@ Note:
 ---
 
 ## PS wanna also make such cool presentations?
+
++++
+
 ## JUST ADD <span style="color:#e49436; text-transform: none">PITCHME.md</span> ;)
